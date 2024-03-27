@@ -1,0 +1,38 @@
+body {
+    font-family:fantasy
+    text-shadow: 3px 3px 3px #985454;
+    background-color:#a84646;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+  
+}
+
+.container {
+    
+}
+
+input[type="number"] {
+    
+}
+
+button {
+    
+}
+
+button:hover {
+    
+}
+
+#output {
+    
+}
+
+#sum {
+    
+}
